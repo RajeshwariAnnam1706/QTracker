@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.data-entry-section{
+    position: relative;
+    top: 90px;
+    width: 100%;
+    height: 100vh;
+}
+
+.container-form{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#student-heading{
+    margin-bottom: 50px;
+}
+
+.bgimg1{
+    height: 90vh;
+    width: 100%;
+    z-index: -1;
+    position: fixed;
+    opacity: 0.5;
+}
+
+label{
+    font-weight: bolder;
+    font-size: 20px;
+}
